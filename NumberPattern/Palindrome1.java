@@ -1,4 +1,4 @@
-package NumberPattern;
+
 
 import java.util.Scanner;
 
