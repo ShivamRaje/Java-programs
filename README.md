@@ -18,7 +18,7 @@ This repository contains a series of Java programs that I upload on a daily basi
 
 ## Structure
 - Each Java program is stored in a separate folder named by date or topic.
-- Source files are organized to make it easy to find and review specific concepts.
+- Source files are organized to make. it easy to find and review specific concepts.
 
 ## Technologies Used
 All programs are written in **Java** and can be compiled and run on any IDE or command line with Java installed.
