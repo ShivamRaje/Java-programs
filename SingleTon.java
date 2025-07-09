@@ -1,3 +1,5 @@
+//SingleTon Design Pattern
+
 class PVRmovies{
     private static PVRmovies mTicket;
     private static boolean status=false;
