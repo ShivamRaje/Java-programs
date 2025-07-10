@@ -8,7 +8,7 @@ public class BinarySearch {
         boolean status=false;
         for(int i=0;i<arr.length;i++){
             if (arr[mid]==key) {
-                System.out.println("Key found at index ");
+                System.out.println("Key found at index "+i);
                 status=true;
                 break;
             }else if(arr[mid]<key){
