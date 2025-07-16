@@ -3,6 +3,7 @@ package DSA.Sorting;
 import java.util.Scanner;
 
 public class SelectionSort {
+    //perform sorting
     private static void sorting(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             int current=i;
