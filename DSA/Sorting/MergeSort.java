@@ -5,10 +5,29 @@ import java.util.Scanner;
 public class MergeSort {
     //perform sorting
     public  static void conquer(int[] arr,int si,int mid,int ri) {
-        int[] merge=new int[si+ri-1];
-        int left=si;
-        int mi=mid+1;
-
+        int[] merge=new int[ri-si+1];
+        int idx1=si;
+        int idx2=mid+1;
+        int x=0;
+        while (idx1<=mid && idx2<=ri) {
+            if (arr[idx1]<=arr[idx2]) {
+                merge[x++]=arr[idx1++];
+            } else {
+                merge[x++]=arr[idx2++];
+            }
+        }
+        while (idx1 <= mid) {
+            merge[x++] = arr[idx1++];
+        }
+    
+        while (idx2 <= ri) {
+            merge[x++] = arr[idx2++];
+        }
+    
+        // Copy merged array back to original array
+        for (int i = 0; i < merge.length; i++) {
+            arr[si + i] = merge[i];
+        }
     }
     public  static void divide(int[] arr,int si,int ri) {
         if(si>=ri){
