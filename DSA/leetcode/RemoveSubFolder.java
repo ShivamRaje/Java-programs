@@ -20,7 +20,7 @@ public class RemoveSubFolder {
                 ans.add(folder[i]);
             }
         }
-        System.out.println();
+        System.out.println(ans);
 
     }
     public static void main(String[] args) {
