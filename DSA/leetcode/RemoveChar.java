@@ -27,7 +27,7 @@ public class RemoveChar {
         String s=sc.nextLine();
         sc.nextLine();
         String newS=removeC(s);
-        //System.out.println(newS);
+        System.out.println(newS);
         sc.close();
     }
 }
