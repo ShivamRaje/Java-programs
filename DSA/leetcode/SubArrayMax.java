@@ -31,7 +31,7 @@ public class SubArrayMax {
                 arr[i]=sc.nextInt();
             }
             int output=maximumUniqueSubarray(arr);
-            System.out.println("Output = "+output);
+            System.out.println("Output : "+output);
 
         sc.close();
     }
