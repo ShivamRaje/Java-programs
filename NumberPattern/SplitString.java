@@ -7,7 +7,7 @@ public class SplitString {
         String s1=sc.nextLine();
         String[] words=s1.split("\\s");
         for(String w:words){
-            System.out.println(w)
+            System.out.println(w);
         }
         sc.close();
     }
