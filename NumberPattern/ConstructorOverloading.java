@@ -19,6 +19,6 @@ public class ConstructorOverloading {
         name=t;
     }
     void getName(){
-        System.out.println("Language name: ");
+        System.out.println("Language name: "+name);
     }
 }
