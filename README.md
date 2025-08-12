@@ -21,7 +21,7 @@ This repository contains a series of Java programs that I upload on a daily basi
 - Source files are organized to make. it easy to find and review specific concepts.
 
 ## Technologies Used
-All programs are written in **Java** and can be compiled and run on any IDE or command line with Java installed..
+All programs are written in **Java** and can be compiled and run on any IDE or command line with Java installed.
 
 ## How to Contribute
 If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. All constructive feedback is appreciated!
