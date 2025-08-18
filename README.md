@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Java Programs Repository.</h1>
+    <h1>Java Programs Repository..</h1>
     <p>Welcome to my collection of daily Java programs!. This repository is updated regularly with various Java exercises, examples, and projects.</p>
     
 
 
-## Repository URL
+## Repository URL.
 [https://github.com/ShivamRaje/Java-programs.git](https://github.com/ShivamRaje/Java-programs.git)
 
 ## About the Repository
@@ -21,7 +21,7 @@ This repository contains a series of Java programs that I upload on a daily basi
 - Source files are organized to make. it easy to find and review specific concepts.
 
 ## Technologies Used
-All programs are written in **Java** and can be compiled and run on any IDE or command line with Java installed.
+All programs are written in **Java** and can be compiled and run on any IDE or command line with Java installed...
 
 ## How to Contribute
 If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. All constructive feedback is appreciated!
