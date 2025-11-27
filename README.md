@@ -29,5 +29,5 @@ If you'd like to contribute, feel free to fork the repository, make your changes
 ## Contact
 If you have any questions or suggestions, please reach out via GitHub issues or discussions.
 
-Happy coding!
+Happy coding.!
 
