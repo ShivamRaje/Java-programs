@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Java Programs Repository.</h1>
-    <p>Welcome to my collection of daily Java programs!..This repository is updated regularly with various Java exercises, examples and projects...</p>
+    <p>Welcome to my collection of daily Java programs!..This repository is updated regularly with various Java exercises, examples and projects....</p>
     
 
 
