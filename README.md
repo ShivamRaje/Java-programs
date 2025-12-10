@@ -14,7 +14,7 @@
 [https://github.com/ShivamRaje/Java-programs.git](https://github.com/ShivamRaje/Java-programs.git)
 
 ## About the Repository
-This repository contains a series of Java programs that I upload on a daily basis. Each program covers different Java concepts, from basic syntax to advanced features....
+This repository contains a series of Java programs that I upload on a daily basis. Each program covers different Java concepts, from basic syntax to advanced features...
 
 ## Structure
 - Each Java program is stored in a separate folder named by date or topic.
