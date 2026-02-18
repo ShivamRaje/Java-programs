@@ -24,7 +24,7 @@ This repository contains a series of Java programs that I upload on a daily basi
 All programs are written in **Java** and can be compiled and run on any IDE or command line with Java installed.
 
 ## How to Contribute
-If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. All constructive feedback is appreciated!
+If you'd like to contribute, feel free to fork the repository, make your changes, and submit a pull request. All constructive feedback is appreciated!.
 
 ## Contact
 If you have any questions or suggestions, please reach out via GitHub issues or discussions.
